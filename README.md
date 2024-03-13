@@ -3,7 +3,7 @@
 Sistema com o intuito de ajudar os colecionadores a realizar a administração de suas figurinhas disponíveis.
 
 
-### 📋 Pré-requisitos de instalação
+### 📋 Passo a passo da execução
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
@@ -11,12 +11,11 @@ Abrir a pasta do frontend e figurinhas e colocar o seguinte comando no terminal:
 ```
 npm run dev
 ```
-
-
+No backend, somente necessário executar a classe AutoestudoApplication.java
+Também será necessário criar uma banco de dados no PostgreSQL com o nome autoestudo.
+E por fim verificar as informações do arquivo aplication.properties, modificando os dados de acordo com as informações do seu banco
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [VueJs 3](https://vuejs.org/) - O framework web usado
 * [Vuetify 3](https://vuetifyjs.com/en/) -  Vuetify é uma estrutura Vue.js que ajuda a criar interfaces de usuário bonitas e responsivas.
