@@ -12,7 +12,9 @@ Abrir a pasta do frontend e figurinhas e colocar o seguinte comando no terminal:
 npm run dev
 ```
 No backend, somente necessário executar a classe AutoestudoApplication.java
+
 Também será necessário criar uma banco de dados no PostgreSQL com o nome autoestudo.
+
 E por fim verificar as informações do arquivo aplication.properties, modificando os dados de acordo com as informações do seu banco
 
 ## 🛠️ Construído com
